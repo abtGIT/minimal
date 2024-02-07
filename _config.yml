@@ -5,19 +5,10 @@
 # google_analytics:
 # theme: jekyll-theme-minimal
 
-title: <p align="center"> Abhishek Tomar </p>
+title: Abhishek Tomar
 logo: /assets/img/logo.jpg
+description: Research and Development | Senior Project Engineer at Centre for Development of Advanced Computing (Strategic Projects, Applied AI Group)
 
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/abtli/">LinkedIn</a> |
-  <a href="https://github.com/abtGIT">GitHub</a>
-  
-  <br>   
-  Research and Development, Senior Project Engineer at Centre for Development of Advanced Computing - Strategic Projects, Applied AI Group
-  <br>
-  </p>
 
 
 
